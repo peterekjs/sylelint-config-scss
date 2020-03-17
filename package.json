@@ -35,6 +35,6 @@
     "stylelint-selector-bem-pattern": "^2.1.0"
   },
   "peerDependencies": {
-    "stylelint": "^13.2.1"
+    "stylelint": "13.x.x"
   }
 }
