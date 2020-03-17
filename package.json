@@ -1,0 +1,40 @@
+{
+  "name": "@peterekjs/stylelint-config-scss",
+  "version": "0.0.0",
+  "description": "Stylelint configuration module for projects using Sass/SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterekjs/sylelint-config-scss.git"
+  },
+  "keywords": [
+    "bem",
+    "code",
+    "code linter",
+    "code style",
+    "css",
+    "sass",
+    "scss",
+    "style",
+    "style linter",
+    "stylelint",
+    "stylelint-config"
+  ],
+  "author": "Jiri Peterek <jiri.peterek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterekjs/sylelint-config-scss/issues"
+  },
+  "homepage": "https://github.com/peterekjs/sylelint-config-scss#readme",
+  "dependencies": {
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.15.0",
+    "stylelint-selector-bem-pattern": "^2.1.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.2.1"
+  }
+}
