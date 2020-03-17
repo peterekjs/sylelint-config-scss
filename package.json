@@ -1,5 +1,5 @@
 {
-  "name": "@peterekjs/stylelint-config-scss",
+  "name": "@peterek/stylelint-config-scss",
   "version": "1.0.0",
   "description": "Stylelint configuration module for projects using Sass/SCSS",
   "main": "index.js",
